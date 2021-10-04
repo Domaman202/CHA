@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  #",
+    "DBD",
+    "O O"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:leather_helmet"
+    },
+    "D": {
+      "item": "minecraft:leather_chestplate"
+    },
+    "B": {
+      "item": "minecraft:brown_wool"
+    },
+    "O": {
+      "item": "minecraft:leather_leggings"
+    }
+  },
+  "result": {
+    "item": "minecraft:leather_horse_armor",
+    "count": 1
+  },
+  "group": "horse"
+}
